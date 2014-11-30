@@ -1,0 +1,1 @@
+def charGen(char_list)
